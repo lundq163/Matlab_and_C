@@ -31,7 +31,7 @@ void score(void)
 
 void author(void)
 {
-	printf("LabC2 ");
+	printf("RPS ");
 	printf("Author(s) ");
 	printf(" Jacob Lundquist ");
 	printf("\n");
